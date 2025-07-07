@@ -235,23 +235,12 @@ if any(keyword in text_lower for keyword in ['new_keyword']):
 - Add visualization dashboards
 - Implement user authentication
 
-## 📝 License
-
-This project is created for educational and demonstration purposes.
-
 ## 🤝 Contributing
 
 Feel free to fork this project and submit improvements!
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the troubleshooting section above
-2. Review the example tickets and file formats
-3. Ensure all dependencies are installed correctly
 
 ---
 
 **Built with ❤️ using Python, Gradio, and Machine Learning**
 
-*© 2024 - AI Assignment by Vijayi WFH Technologies*
+
